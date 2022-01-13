@@ -18,4 +18,4 @@ This is Fun app playing with triangles
 - HTML5
 - CSS3
 - JavaScript
-Check out the live project - "[Live]()"
+Check out the live project - "[Live](https://rutuja0802.github.io/Triangle_game/)"
